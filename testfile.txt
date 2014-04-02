@@ -1,1 +1,1 @@
-This is a testfile added within wisdmmap.
+This is a testfile modified within wisdmmap.
